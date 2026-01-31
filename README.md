@@ -44,7 +44,7 @@ npm install
 2. Create an API key
 3. Add credits to your account
 
-### 4. Configure Environment Variables
+## 4. Configure Environment Variables
 
 Copy `.env.example` to `.env.local` and fill in your keys.
 
