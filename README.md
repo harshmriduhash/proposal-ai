@@ -28,7 +28,7 @@ ProposalAI helps consultants, agencies, and professional services firms generate
 
 ## 1. Install Dependencies
 
-```bash
+bash
 cd proposalai
 npm install
 
@@ -38,7 +38,7 @@ npm install
 2. Run the migration: `supabase/migrations/001_initial_schema.sql`
 3. Copy your API keys from Settings > API
 
-### 3. Set Up Anthropic API
+## 3. Set Up Anthropic API
 
 1. Sign up at [anthropic.com](https://anthropic.com)
 2. Create an API key
