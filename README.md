@@ -32,7 +32,7 @@ ProposalAI helps consultants, agencies, and professional services firms generate
 cd proposalai
 npm install
 
-### 2. Set Up Supabase
+## 2. Set Up Supabase
 
 1. Create a new project at [supabase.com](https://supabase.com)
 2. Run the migration: `supabase/migrations/001_initial_schema.sql`
