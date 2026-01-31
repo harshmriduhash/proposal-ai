@@ -31,7 +31,6 @@ ProposalAI helps consultants, agencies, and professional services firms generate
 ```bash
 cd proposalai
 npm install
-```
 
 ### 2. Set Up Supabase
 
