@@ -1,6 +1,12 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 import { CheckCircle2, FileText, Zap, Clock } from "lucide-react";
 
 export default function LandingPage() {
@@ -27,8 +33,9 @@ export default function LandingPage() {
           in Minutes, Not Hours
         </h1>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-          Upload your RFP and company assets. Our AI generates 80% complete proposals
-          tailored to each client, saving you 20-40 hours per proposal.
+          Upload your RFP and company assets. Our AI generates 80% complete
+          proposals tailored to each client, saving you 20-40 hours per
+          proposal.
         </p>
         <div className="flex gap-4 justify-center">
           <Link href="/signup">
@@ -80,7 +87,8 @@ export default function LandingPage() {
             </div>
             <h3 className="font-semibold text-lg mb-2">Upload RFP & Assets</h3>
             <p className="text-gray-600">
-              Upload the RFP and your company assets (past proposals, case studies, pricing)
+              Upload the RFP and your company assets (past proposals, case
+              studies, pricing)
             </p>
           </div>
           <div className="text-center">
