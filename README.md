@@ -48,7 +48,7 @@ npm install
 
 Copy `.env.example` to `.env.local` and fill in your keys.
 
-### 5. Run Locally
+## 5. Run Locally
 
 ```bash
 npm run dev
