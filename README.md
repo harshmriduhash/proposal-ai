@@ -26,7 +26,7 @@ ProposalAI helps consultants, agencies, and professional services firms generate
 
 ## Setup Instructions
 
-### 1. Install Dependencies
+## 1. Install Dependencies
 
 ```bash
 cd proposalai
