@@ -50,7 +50,7 @@ Copy `.env.example` to `.env.local` and fill in your keys.
 
 ## 5. Run Locally
 
-```bash
+bash
 npm run dev
 ```
 
