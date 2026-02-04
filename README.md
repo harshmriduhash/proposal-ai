@@ -1,6 +1,6 @@
 # Proposal - AI-Powered Proposal Generation Platform
 
-ProposalAI helps consultants, all kind agencies, and professional services firms generate winning proposals in minutes instead of hours. Upload RFPs and company assets, and get 80% complete proposals tailored to each client.
+ProposalAI helps consultants, all kind ofagencies, and professional services firms generate winning proposals in minutes instead of hours. Upload RFPs and company assets, and get 80% complete proposals tailored to each client.
 
 ## Features
 
