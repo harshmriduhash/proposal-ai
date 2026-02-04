@@ -6,7 +6,7 @@ ProposalAI helps consultants, all kind of agencies, & professional services firm
 
 - **AI-Powered Generation**: Generate 80% complete proposals using Claude AI
 - **RFP Analysis**: Automatically extract requirements from uploaded RFPs
-- **Company Asset Library**: Store and reuse past proposals, case studies, and pricing models
+- **Company Asset Library**: Store & reuse past proposals, case studies, and pricing models
 - **Rich Text Editor**: Edit generated proposals with full formatting
 - **Export Options**: Export as PDF or Word documents
 - **Template Customization**: Brand proposals with your company information
